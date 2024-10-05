@@ -1,0 +1,27 @@
+{
+  "IDS60901": {
+    "IDS60901": {
+      "weatherInfo": {
+        "id": "IDS60901",
+        "name": "Location 63",
+        "state": "SA",
+        "time_zone": "CST",
+        "lat": 0.1619644953332542,
+        "lon": 0.690255021702884,
+        "local_date_time": "15/7:00pm",
+        "local_date_time_full": "202409301628",
+        "air_temp": 6.970922753833851,
+        "apparent_t": 7.503166790718991,
+        "cloud": "Partly cloudy",
+        "dewpt": 3.7431796548308727,
+        "press": 39.29827569796803,
+        "rel_hum": 24,
+        "wind_dir": "S",
+        "wind_spd_kmh": 6,
+        "wind_spd_kt": 3
+      },
+      "lastUpdateTime": 1728101408107,
+      "versionId": 0
+    }
+  }
+}
